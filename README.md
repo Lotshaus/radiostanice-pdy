@@ -14,17 +14,10 @@ Stránka představuje:
 - dobové ovládací a vysílací sály,
 - historický text doplněný o odkazy na původní zdroje.
 
-## Spuštění
+## Nasazení
 
-Projekt nevyžaduje instalaci žádných závislostí. Otevřete soubor `index.html` v internetovém prohlížeči.
-
-Pro lokální náhled lze použít také jednoduchý webový server, například:
-
-```text
-python -m http.server 8000
-```
-
-Potom otevřete adresu `http://localhost:8000`.
+Stránka je určena pro nasazení přes GitHub Pages. Po zapnutí GitHub Pages pro větev
+`main` se web automaticky publikuje z kořenové složky repozitáře.
 
 ## Struktura projektu
 
