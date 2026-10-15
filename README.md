@@ -19,6 +19,12 @@ Stránka představuje:
 Stránka je určena pro nasazení přes GitHub Pages. Po zapnutí GitHub Pages pro větev
 `main` se web automaticky publikuje z kořenové složky repozitáře.
 
+Web je hostovaný na adrese:
+
+**https://lotshaus.github.io/radiostanice-pdy/**
+
+Nasazení probíhá automaticky pomocí GitHub Pages po aktualizaci větve `main`.
+
 ## Struktura projektu
 
 | Soubor | Popis |
